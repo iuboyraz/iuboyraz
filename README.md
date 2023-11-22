@@ -1,4 +1,4 @@
-## Software Development Engineer in Test 👋 Emrullah Tanıma
+## | Software Test Engineer | QA Engineer | SDET | 👋 Umit Boyraz
 
 #### ✅ Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/umitboyraz)
